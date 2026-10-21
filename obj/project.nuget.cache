@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hw/kY57zAHE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ander\\source\\repos\\Ataza API 3Taldea\\Ataza API 3Taldea\\Ataza API 3Taldea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ander\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ander\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Ander\\source\\repos\\Ataza API 3Taldea\\Ataza API 3Taldea\\Ataza API 3Taldea.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Ander\\source\\repos\\Ataza API 3Taldea\\Ataza API 3Taldea\\Ataza API 3Taldea.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

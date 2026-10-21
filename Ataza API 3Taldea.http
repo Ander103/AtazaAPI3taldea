@@ -1,0 +1,6 @@
+@Ataza_API_3Taldea_HostAddress = http://localhost:5126
+
+GET {{Ataza_API_3Taldea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
