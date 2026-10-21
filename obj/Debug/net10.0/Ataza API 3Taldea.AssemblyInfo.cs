@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ataza API 3Taldea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+272dba813d219e9e8b0af6c64f55156951849c85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ataza API 3Taldea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ataza API 3Taldea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
